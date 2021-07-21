@@ -13,7 +13,7 @@
 //<----- Custom Headers ----->
 #include "map.cpp"
 #include "player.cpp"
-include "ball.cpp"
+#include "ball.cpp"
 
 //<------ Function Prototypes ------>
 void HideConsoleCursor();
